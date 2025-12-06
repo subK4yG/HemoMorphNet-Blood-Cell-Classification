@@ -18,17 +18,22 @@ The goal is to assist medical analysis and automate blood cell identification fo
    * Classification report
    * ROC curves
 
-## Dataset Structure (8 Classes)
+## Dataset (8 Classes)
 
 The dataset contains the following 8 blood cell classes:
-EOSINOPHIL
-LYMPHOCYTE
-MONOCYTE
-NEUTROPHIL
-BASOPHIL
-NORMAL RBC (Red Blood Cells)
-IMMATURE GRANULOCYTE
-PLATELET
++ EOSINOPHIL
++ LYMPHOCYTE
++ MONOCYTE
++ NEUTROPHIL
++ BASOPHIL
++ NORMAL RBC (Red Blood Cells)
++ IMMATURE GRANULOCYTE
++ PLATELET
+
+Project Files (Google Drive Link)
+The complete dataset, trained models, and other large resources are available here:
++ Google Drive Link: 
+(Some files were too large to upload to GitHub, so they are stored in Google Drive for view.)
 
 ### What CNN model does this project use?
 
@@ -110,7 +115,7 @@ These visualizations provide insights into model performance.
 1. Install dependencies
    * pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 2. Prepare dataset
-   * Place the dataset in the directory shown above.
+   * Place the dataset in the directory.
 3. Train the model
    * Run the inceptionv3_training.ipynb notebook.
 4. Evaluate the model
