@@ -75,7 +75,7 @@ Both stages generate separate training histories.
 3. Compile with Adam optimizer
 4. Train in two stages
 5. Save checkpoint and final .keras model
-Model paths used:
+   Model paths used:
 * checkpoint.keras
 * final_trained_model.keras
 
@@ -105,7 +105,7 @@ These visualizations provide insights into model performance.
 - scikit-learn
 - Jupyter Notebook
 
-  ## How to Run the Project
+## How to Run the Project
   
 1. Install dependencies
    * pip install tensorflow keras numpy matplotlib seaborn scikit-learn
