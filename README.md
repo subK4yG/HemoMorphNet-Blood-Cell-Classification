@@ -32,7 +32,7 @@ The dataset contains the following 8 blood cell classes:
 
 Project Files (Google Drive Link)
 The complete dataset, trained models, and other large resources are available here:
-+ Google Drive Link: 
++ Google Drive Link: https://drive.google.com/drive/folders/1DlxIaTSyhhdNGPdGsLXDdAV8KEspdnp2?usp=sharing
 (Some files were too large to upload to GitHub, so they are stored in Google Drive for view.)
 
 ### What CNN model does this project use?
